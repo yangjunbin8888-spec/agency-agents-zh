@@ -22,7 +22,7 @@
 ### 平台专家
 | 智能体 | 角色 |
 |--------|------|
-| Twitter 运营官 | Twitter/X 活动执行 |
+| Twitter 互动官 | Twitter/X 活动执行 |
 | TikTok 策略师 | TikTok 内容和增长 |
 | Instagram 策展人 | Instagram 视觉内容 |
 | Reddit 社区建设者 | Reddit 真实互动 |
@@ -79,7 +79,7 @@
 │   ├── 视频脚本
 │   └── 社交媒体文案（各平台定制版）
 │
-├── Twitter 运营官 → Twitter 专属内容
+├── Twitter 互动官 → Twitter 专属内容
 │   ├── 上线推文串（10-15 条）
 │   ├── 每日互动推文
 │   ├── 回复模板
@@ -115,7 +115,7 @@
 └── 团队已了解互动规则
 
 第 2-3 天：发布
-├── Twitter 运营官 → 发布推文串 + 实时互动
+├── Twitter 互动官 → 发布推文串 + 实时互动
 ├── Instagram 策展人 → 发布帖子 + Stories
 ├── TikTok 策略师 → 发布视频
 ├── Reddit 社区建设者 → 社区真实发帖
@@ -169,7 +169,7 @@
 
 | 平台 | 主要 KPI | 次要 KPI | 智能体 |
 |------|---------|---------|--------|
-| Twitter/X | 曝光量 + 互动率 | 粉丝增长 | Twitter 运营官 |
+| Twitter/X | 曝光量 + 互动率 | 粉丝增长 | Twitter 互动官 |
 | TikTok | 播放量 + 完播率 | 粉丝增长 | TikTok 策略师 |
 | Instagram | 触达 + 收藏数 | 主页访问 | Instagram 策展人 |
 | Reddit | 投票数 + 评论质量 | 引荐流量 | Reddit 社区建设者 |
